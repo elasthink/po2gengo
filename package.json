@@ -1,0 +1,20 @@
+{
+  "name": "po2gengo",
+  "version": "1.0.1",
+  "description": "PO to Gengo (plain text with comments) utility and vice versa.",
+  "main": "po2gengo.js",
+  "bin": {
+    "po2gengo": "./po2gengo.mjs",
+    "gengo2po": "./gengo2po.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elasthink/po2gengo.git"
+  },
+  "author": "terangel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elasthink/po2gengo/issues"
+  },
+  "homepage": "https://github.com/elasthink/po2gengo#readme"
+}

@@ -1,0 +1,1215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LingoClip\n"
+"POT-Creation-Date: 2022-04-12 10:18+0200\n"
+"PO-Revision-Date: 2022-04-12 12:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: E:/Projects/lingoclip/src\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _;_n:1,2\n"
+"X-Poedit-SearchPath-0: js\n"
+"X-Poedit-SearchPath-1: views\n"
+
+#: js/app.js:2585
+msgid "Sorry, the service is currently unavailable"
+msgstr ""
+
+#: js/app.js:2586 js/app.js:2598
+msgid "Please try again later."
+msgstr ""
+
+#: js/app.js:2592
+msgid "Something went wrong"
+msgstr ""
+
+# Button label.
+#: js/app.js:2593 views/premium/handler.js:110 views/templates.js:73
+#: views/templates.js:2523
+msgid "Try Again"
+msgstr ""
+
+#: js/app.js:2620 views/templates.js:45 views/templates.js:713
+msgid "No Internet Connection"
+msgstr ""
+
+#: js/app.js:2620 views/templates.js:46
+msgid "Please check your connection and try again."
+msgstr ""
+
+# %1: Elapsed time in years.
+#: js/util/i18n.js:236
+msgid "%1 year ago"
+msgid_plural "%1 years ago"
+msgstr[0] ""
+msgstr[1] ""
+
+# %1: Elapsed time in months.
+#: js/util/i18n.js:238
+msgid "%1 month ago"
+msgid_plural "%1 months ago"
+msgstr[0] ""
+msgstr[1] ""
+
+# %1: Elapsed time in days.
+#: js/util/i18n.js:240
+msgid "%1 day ago"
+msgid_plural "%1 days ago"
+msgstr[0] ""
+msgstr[1] ""
+
+# %1: Elapsed time in hours.
+#: js/util/i18n.js:242
+msgid "%1 hour ago"
+msgid_plural "%1 hours ago"
+msgstr[0] ""
+msgstr[1] ""
+
+# %1: Elapsed time in minutes.
+#: js/util/i18n.js:244
+msgid "%1 minute ago"
+msgid_plural "%1 minutes ago"
+msgstr[0] ""
+msgstr[1] ""
+
+# %1: Elapsed time in seconds.
+#: js/util/i18n.js:246
+msgid "%1 second ago"
+msgid_plural "%1 seconds ago"
+msgstr[0] ""
+msgstr[1] ""
+
+# Relative time.
+#: js/util/i18n.js:248
+msgid "just now"
+msgstr ""
+
+# Featured song lyrics.
+#: views/home/handler.js:98 views/list/handler.js:72
+msgid "Featured Lyrics"
+msgstr ""
+
+# Most played song lyrics.
+#: views/home/handler.js:108 views/list/handler.js:84
+msgid "Top Lyrics"
+msgstr ""
+
+# New song lyrics.
+#: views/home/handler.js:118 views/list/handler.js:80
+msgid "New Lyrics"
+msgstr ""
+
+# Heading of a list.
+#: views/home/handler.js:128 views/list/handler.js:76
+msgid "Hot Lyrics"
+msgstr ""
+
+# Musical genres.
+#: views/home/handler.js:150 views/list/handler.js:92
+msgid "Genres"
+msgstr ""
+
+# Name of a section of the app that displays the user's favorite song lyrics.
+#: views/list/handler.js:100 views/templates.js:1182
+msgid "Favorites"
+msgstr ""
+
+#: views/lyrics/game-start/handler.js:150
+msgid "Unable to load the game at this time."
+msgstr ""
+
+#: views/lyrics/game-start/handler.js:174
+msgid "Unable to open the challenge at this time."
+msgstr ""
+
+#: views/lyrics/game-start/handler.js:375
+msgid "Play this lyrics if you dare!"
+msgstr ""
+
+#: views/lyrics/game-start/handler.js:411
+msgid "Unable to create a new challenge at this time."
+msgstr ""
+
+#: views/lyrics/game-start/leaders/handler.js:210
+msgid "Worldwide"
+msgstr ""
+
+#: views/lyrics/game-start/leaders/handler.js:216
+msgid "My Country"
+msgstr ""
+
+# Button label.
+#: views/lyrics/game-start/leaders/handler.js:218 views/templates.js:2266
+#: views/templates.js:2302
+msgid "Challenge"
+msgstr ""
+
+#: views/lyrics/game-start/leaders/list/handler.js:93
+msgid "Unable to load leaderboard at this time"
+msgstr ""
+
+#: views/lyrics/game-start/leaders/list/handler.js:104
+msgid "No scores found"
+msgstr ""
+
+# Button label.
+#: views/lyrics/game-start/leaders/list/handler.js:187 views/templates.js:717
+#: views/templates.js:2561
+msgid "Retry"
+msgstr ""
+
+# Button label.
+#: views/lyrics/game-start/leaders/list/handler.js:187
+msgid "Refresh"
+msgstr ""
+
+# %1: Number of times a game has been played.
+#: views/lyrics/handler.js:79 views/templates.js:543 views/templates.js:972
+#: views/templates.js:1970
+msgid "%1 play"
+msgid_plural "%1 plays"
+msgstr[0] ""
+msgstr[1] ""
+
+# A song lyrics.
+#: views/lyrics/handler.js:127
+msgid "Check out this lyrics!"
+msgstr ""
+
+#: views/premium/handler.js:92
+msgid "Your subscription has expired"
+msgstr ""
+
+#: views/premium/handler.js:94
+msgid "Your subscription is linked to another user"
+msgstr ""
+
+#: views/premium/handler.js:95
+msgid "Please contact support for help."
+msgstr ""
+
+#: views/premium/handler.js:97
+msgid "We couldn't find any active subscription at this time"
+msgstr ""
+
+#: views/premium/handler.js:100
+msgid "Your purchase could not be completed"
+msgstr ""
+
+#: views/premium/handler.js:101 views/templates.js:11
+msgid "Please try again or contact support."
+msgstr ""
+
+# Button label.
+#: views/premium/handler.js:106 views/templates.js:1241 views/templates.js:2443
+msgid "Cancel"
+msgstr ""
+
+# Button label.
+#: views/premium/handler.js:117 views/templates.js:905 views/templates.js:2383
+msgid "Close"
+msgstr ""
+
+#: views/templates.js:10
+msgid "Sorry, something went wrong"
+msgstr ""
+
+#: views/templates.js:18
+msgid "Not Authorized"
+msgstr ""
+
+#: views/templates.js:19
+msgid "Please log in and try again."
+msgstr ""
+
+#: views/templates.js:25
+msgid "Access Denied"
+msgstr ""
+
+#: views/templates.js:26
+msgid "You don't have persmission to access this content."
+msgstr ""
+
+#: views/templates.js:32
+msgid "Not Found"
+msgstr ""
+
+#: views/templates.js:33
+msgid "We couldn't find the content you were looking for."
+msgstr ""
+
+#: views/templates.js:39
+msgid "Out of Service"
+msgstr ""
+
+#: views/templates.js:40
+msgid "We're working hard to restore service as quickly as possible."
+msgstr ""
+
+# Link or button label.
+#: views/templates.js:73
+msgid "Back to Home"
+msgstr ""
+
+#: views/templates.js:157
+msgid "What language do you want to learn today?"
+msgstr ""
+
+# Title.
+#: views/templates.js:247
+msgid "Your <b>Level</b>"
+msgstr ""
+
+# Level of user progress in learning a language.
+#: views/templates.js:249 views/templates.js:1066 views/templates.js:1571
+#: views/templates.js:1928
+msgid "Level"
+msgstr ""
+
+#: views/templates.js:265
+msgid "Complete a song's lyrics each day to increase your streak!"
+msgstr ""
+
+# Button label.
+#: views/templates.js:270 views/templates.js:1431 views/templates.js:1490
+#: views/templates.js:2461
+msgid "Continue"
+msgstr ""
+
+# When there is nothing to show.
+#: views/templates.js:307 views/templates.js:1527
+msgid "Nothing here…"
+msgstr ""
+
+#: views/templates.js:310
+msgid "You have not added any favorites yet."
+msgstr ""
+
+# Song lyrics.
+#: views/templates.js:311
+msgid "Sorry, there are no lyrics matching your search criteria."
+msgstr ""
+
+# Title of a dialog or pop-up.
+#: views/templates.js:338
+msgid "Go <b>Premium</b>"
+msgstr ""
+
+#: views/templates.js:340
+msgid "Play thousands of lyrics without waiting"
+msgstr ""
+
+#: views/templates.js:342
+msgid "Translate any word or sentence without limits"
+msgstr ""
+
+# If the user pays...
+#: views/templates.js:344
+msgid "Full access to your vocabulary and activity log"
+msgstr ""
+
+# "Monthly" subscription plan.
+#: views/templates.js:358
+msgid "Monthly"
+msgstr ""
+
+# For example: $4,99 "per month".
+#: views/templates.js:362
+msgid "Per month"
+msgstr ""
+
+# "Annual" subscription plan.
+#: views/templates.js:380
+msgid "Annual"
+msgstr ""
+
+# For example: $29,99 "per year".
+#: views/templates.js:384
+msgid "Per year"
+msgstr ""
+
+# Highlight the best offer among various price plans.
+#: views/templates.js:386
+msgid "Best value"
+msgstr ""
+
+# ${cost}: Amount of money to pay.
+#: views/templates.js:402
+msgid "That's <b>${cost}</b> a month"
+msgstr ""
+
+# Button label.
+#: views/templates.js:409
+msgid "Restore Purchase"
+msgstr ""
+
+# ${store}: App Store or Google Play.
+#: views/templates.js:417
+msgid "Payment will be charged to your ${store} account at confirmation of purchase"
+msgstr ""
+
+#: views/templates.js:420
+msgid "Subscription automatically renews unless canceled at least 24-hours before the end of the current period"
+msgstr ""
+
+# ${store}: App Store or Google Play.
+#: views/templates.js:423
+msgid "To cancel your subscription, please go to your ${store} account settings."
+msgstr ""
+
+# Link to “Terms of Service" web page.
+#: views/templates.js:426
+msgid "Terms of Service"
+msgstr ""
+
+# Link to "Privacy Policy" web page.
+#: views/templates.js:428 views/templates.js:1197
+msgid "Privacy Policy"
+msgstr ""
+
+#: views/templates.js:462
+msgid "How deep is your love?"
+msgstr ""
+
+#: views/templates.js:464
+msgid "Tap a star to rate this app."
+msgstr ""
+
+# Button label.
+#: views/templates.js:466
+msgid "No, Thanks"
+msgstr ""
+
+# Button label.
+#: views/templates.js:466
+msgid "Maybe Later"
+msgstr ""
+
+#: views/templates.js:482
+msgid "Search for lyrics and artists…"
+msgstr ""
+
+# Song lyrics (plural).
+#: views/templates.js:484 views/templates.js:1094 views/templates.js:1572
+#: views/templates.js:1842
+msgid "Lyrics"
+msgstr ""
+
+# Link or button label to display "more" items of a list.
+#: views/templates.js:486 views/templates.js:490
+msgid "More"
+msgstr ""
+
+#: views/templates.js:488
+msgid "Artists"
+msgstr ""
+
+#: views/templates.js:492
+msgid "Sorry, no results were found"
+msgstr ""
+
+#: views/templates.js:494
+msgid "Check your spelling or try different words"
+msgstr ""
+
+#: views/templates.js:614
+msgid "Enjoy learning languages with music"
+msgstr ""
+
+#: views/templates.js:617
+msgid "Music stimulates learning in a natural way"
+msgstr ""
+
+#: views/templates.js:619
+msgid "Just like when we were kids"
+msgstr ""
+
+#: views/templates.js:622
+msgid "Have fun filling in your favourite lyrics"
+msgstr ""
+
+#: views/templates.js:624
+msgid "Let your brain do the rest"
+msgstr ""
+
+# Button label.
+#: views/templates.js:626 views/templates.js:2218
+msgid "Skip"
+msgstr ""
+
+# Button label.
+#: views/templates.js:628 views/templates.js:789
+msgid "Next"
+msgstr ""
+
+# Button label.
+#: views/templates.js:630
+msgid "Get Started"
+msgstr ""
+
+# Member means registered user.
+#: views/templates.js:632 views/templates.js:2495
+msgid "Already a member?"
+msgstr ""
+
+#: views/templates.js:644
+msgid "Are you sure you want to exit?"
+msgstr ""
+
+# Warning for the user if he leaves an activity.
+#: views/templates.js:646
+msgid "All progress will be lost"
+msgstr ""
+
+# Button label.
+#: views/templates.js:648
+msgid "Yes"
+msgstr ""
+
+# Button label.
+#: views/templates.js:650
+msgid "No"
+msgstr ""
+
+# Button label or menu item.
+#: views/templates.js:672
+msgid "Resume"
+msgstr ""
+
+# Button or menu item.
+#: views/templates.js:674
+msgid "Restart"
+msgstr ""
+
+# Button label or menu item.
+#: views/templates.js:679
+msgid "Give Up"
+msgstr ""
+
+# It can be a button label or menu item, and also the name of a section of the app that displays the user's settings.
+#: views/templates.js:684 views/templates.js:688 views/templates.js:1184
+#: views/templates.js:1407
+msgid "Settings"
+msgstr ""
+
+# Button label or menu item.
+#: views/templates.js:686
+msgid "Quit"
+msgstr ""
+
+# Refers to the effect of text lighting.
+#: views/templates.js:690
+msgid "Karaoke Effect"
+msgstr ""
+
+# It's a game setting.
+#: views/templates.js:695
+msgid "Color Buttons"
+msgstr ""
+
+# It's a game setting.
+#: views/templates.js:701
+msgid "Help Tips"
+msgstr ""
+
+#: views/templates.js:715
+msgid "Please check your internet connection settings"
+msgstr ""
+
+#: views/templates.js:729
+msgid "Slide left to repeat the line"
+msgstr ""
+
+#: views/templates.js:731
+msgid "Slide right to skip a word"
+msgstr ""
+
+#: views/templates.js:733 views/templates.js:2194
+msgid "Don't show this again"
+msgstr ""
+
+# Title of a dialog or pop-up.
+#: views/templates.js:759
+msgid "New Award!"
+msgid_plural "New Awards!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: views/templates.js:805
+msgid "Play for free"
+msgstr ""
+
+# ${num}: Number of times an activity can be performed for free.
+#: views/templates.js:813
+msgid "${num} times a day"
+msgstr ""
+
+# ${num}: Number of times an activity can be carried out for free, in a given time: ${time} (minutes).
+#: views/templates.js:814
+msgid "${num} times every ${time} minutes"
+msgstr ""
+
+# For example: Play again "IN" 20 seconds.
+#: views/templates.js:821
+msgid "IN"
+msgstr ""
+
+# Title of a dialog or pop-up.
+#: views/templates.js:872
+msgid "Thank You!"
+msgstr ""
+
+#: views/templates.js:877
+msgid "Please help us by confirming your rating on the App Store."
+msgstr ""
+
+#: views/templates.js:878
+msgid "Please help us by confirming your rating on Google Play."
+msgstr ""
+
+#: views/templates.js:883
+msgid "Please help us by spreading the word!"
+msgstr ""
+
+# ...at: support@lyricstraining.com
+#: views/templates.js:888
+msgid "What can we do to improve your rating? Please let us know at "
+msgstr ""
+
+# Button label (informal).
+#: views/templates.js:898
+msgid "Yes, sure"
+msgstr ""
+
+# Button label (informal).
+#: views/templates.js:900
+msgid "No way"
+msgstr ""
+
+# Name of a section of the app that displays the user's activity log.
+#: views/templates.js:920 views/templates.js:1176 views/templates.js:1215
+msgid "Activity"
+msgstr ""
+
+#: views/templates.js:931 views/templates.js:1520
+msgid "Upgrade now to get full access"
+msgstr ""
+
+# Button label.
+#: views/templates.js:933 views/templates.js:1190 views/templates.js:1294
+#: views/templates.js:1522 views/templates.js:1708
+msgid "Go Premium"
+msgstr ""
+
+#: views/templates.js:938
+msgid "You don't have any activity yet"
+msgstr ""
+
+#: views/templates.js:957
+msgid "Today"
+msgstr ""
+
+#: views/templates.js:958
+msgid "Yesterday"
+msgstr ""
+
+# Game score or number of points.
+#: views/templates.js:1001 views/templates.js:2589
+msgid "Points"
+msgstr ""
+
+# Number of blanks to fill in.
+#: views/templates.js:1010 views/templates.js:2106
+msgid "Gaps"
+msgstr ""
+
+# Number of failures or mistakes in a game.
+#: views/templates.js:1014 views/templates.js:2349
+msgid "Fails"
+msgstr ""
+
+# Name of a section of the app that displays the user's achievements.
+#: views/templates.js:1054 views/templates.js:1180 views/templates.js:1219
+msgid "Awards"
+msgstr ""
+
+#: views/templates.js:1122 views/templates.js:1573 views/templates.js:1838
+msgid "Words"
+msgstr ""
+
+#: views/templates.js:1169 views/templates.js:1473 views/templates.js:2473
+msgid "Sign Up"
+msgstr ""
+
+#: views/templates.js:1171
+msgid "Don't lose your progress!"
+msgstr ""
+
+# Name of a section of the app that displays the user's vocabulary.
+#: views/templates.js:1178 views/templates.js:1217 views/templates.js:1509
+msgid "Vocabulary"
+msgstr ""
+
+# Link to “Terms of Use” web page.
+#: views/templates.js:1195
+msgid "Terms of Use"
+msgstr ""
+
+# Link or button label to send an email to us.
+#: views/templates.js:1199
+msgid "Contact"
+msgstr ""
+
+# Link to “About Us” web page.
+#: views/templates.js:1201
+msgid "About"
+msgstr ""
+
+# Link to home screen.
+#: views/templates.js:1213
+msgid "Home"
+msgstr ""
+
+# Link or button label to go to the user's "Profile" or settings screen.
+#: views/templates.js:1221 views/templates.js:1332
+msgid "Profile"
+msgstr ""
+
+#: views/templates.js:1233
+msgid "Reset your password"
+msgstr ""
+
+#: views/templates.js:1235
+msgid "In order to reset your password, enter your username or email:"
+msgstr ""
+
+#: views/templates.js:1239 views/templates.js:1423
+msgid "Username or email"
+msgstr ""
+
+# Button label.
+#: views/templates.js:1243
+msgid "Reset"
+msgstr ""
+
+#: views/templates.js:1265
+msgid "Subscription"
+msgstr ""
+
+#: views/templates.js:1270
+msgid "Premium User"
+msgstr ""
+
+#: views/templates.js:1272
+msgid "Manage subscriptions"
+msgstr ""
+
+# User who doesn't pay.
+#: views/templates.js:1277
+msgid "Free User"
+msgstr ""
+
+# ${num}: Number of times the user can play for free per day.
+#: views/templates.js:1284
+msgid "Play for free ${num} times a day."
+msgstr ""
+
+# ${num}: Number of times the user can play for free every certain amount of time ${time}, in minutes.
+#: views/templates.js:1289
+msgid "Play for free ${num} times every ${time} minutes."
+msgstr ""
+
+# Security section in user settings.
+#: views/templates.js:1299
+msgid "Security"
+msgstr ""
+
+#: views/templates.js:1301 views/templates.js:1468 views/templates.js:1479
+#: views/templates.js:2406
+msgid "Username"
+msgstr ""
+
+#: views/templates.js:1307 views/templates.js:1475 views/templates.js:2415
+msgid "Email"
+msgstr ""
+
+# Button label.
+#: views/templates.js:1313
+msgid "Edit Password"
+msgstr ""
+
+# ...plus service (Google, Facebook, Apple).
+#: views/templates.js:1315
+msgid "Sign In With…"
+msgstr ""
+
+#: views/templates.js:1334
+msgid "Country"
+msgstr ""
+
+#: views/templates.js:1336 views/templates.js:2206
+msgid "Select your country"
+msgstr ""
+
+#: views/templates.js:1350
+msgid "Birthday"
+msgstr ""
+
+#: views/templates.js:1352
+msgid "Month"
+msgstr ""
+
+# Refers to the day of the month.
+#: views/templates.js:1374
+msgid "Day"
+msgstr ""
+
+#: views/templates.js:1388
+msgid "Year"
+msgstr ""
+
+# Button label.
+#: views/templates.js:1403
+msgid "Log Out"
+msgstr ""
+
+# ${code}: Version code number.
+#: views/templates.js:1405
+msgid "Version ${code}"
+msgstr ""
+
+#: views/templates.js:1419
+msgid "Sign In"
+msgstr ""
+
+#: views/templates.js:1427 views/templates.js:1483
+msgid "Password"
+msgstr ""
+
+#: views/templates.js:1429
+msgid "Forgot your password?"
+msgstr ""
+
+# Conjunction "or".
+#: views/templates.js:1433
+msgid "OR"
+msgstr ""
+
+# ${service}: Google, Facebook or Apple.
+#: views/templates.js:1442
+msgid "Sign in with ${service}"
+msgstr ""
+
+#: views/templates.js:1464
+msgid "Please, enter a username to continue:"
+msgstr ""
+
+# Legal stuff.
+#: views/templates.js:1492
+msgid "By continuing, you agree to our <a class=\"terms\" target=\"_blank\" href=\"${terms_url}\">Terms of Use</a> and <a class=\"privacy\" target=\"_blank\" href=\"${privacy_url}\">Privacy Policy</a>."
+msgstr ""
+
+#: views/templates.js:1529
+msgid "Play any lyrics to collect words."
+msgstr ""
+
+# Strength of a learned word.
+#: views/templates.js:1547
+msgid "Strength"
+msgstr ""
+
+# ${num}: Number of times.
+#: views/templates.js:1549
+msgid "${num} times"
+msgstr ""
+
+# ${timeAgo}: Elapsed time.
+#: views/templates.js:1551
+msgid "Last time: ${timeAgo}"
+msgstr ""
+
+# Translate to Spanish, Italian...
+#: views/templates.js:1676 views/templates.js:1678
+msgid "Translate to"
+msgstr ""
+
+#: views/templates.js:1704
+msgid "You've reached the daily free limit"
+msgstr ""
+
+#: views/templates.js:1706
+msgid "Upgrade now to unlimited translations"
+msgstr ""
+
+# ${num}: Number of translations per day.
+#: views/templates.js:1710
+msgid "${num} translations per day"
+msgstr ""
+
+# By service provider (Microsoft).
+#: views/templates.js:1779
+msgid "Translated by"
+msgstr ""
+
+# Refers to number of days.
+#: views/templates.js:1846
+msgid "Days"
+msgstr ""
+
+# Game bonus (label).
+#: views/templates.js:2108
+msgid "Bonus"
+msgstr ""
+
+# ${user}: Refers to the name of a user.
+#: views/templates.js:2170
+msgid "<b>${user}</b> has challenged you!"
+msgstr ""
+
+# ${num}: Number of words.
+#: views/templates.js:2178 views/users/vocabulary/handler.js:116
+msgid "${num} words"
+msgstr ""
+
+# Button label.
+#: views/templates.js:2180
+msgid "Play Now"
+msgstr ""
+
+#: views/templates.js:2192
+msgid "Share your score and challenge your friends!"
+msgstr ""
+
+# Header title of the high scores table.
+#: views/templates.js:2244 views/templates.js:2304
+msgid "Leaderboard"
+msgstr ""
+
+# Button label.
+#: views/templates.js:2268
+msgid "Play"
+msgstr ""
+
+# Difficulty level of a game.
+#: views/templates.js:2282
+msgid "Difficulty Level"
+msgstr ""
+
+# ${num}: Number of words to fill in of ${total}: the total number of words in the lyrics.
+#: views/templates.js:2292
+msgid "Fill <b class=\"words-num\">${num}</b> words of <b class=\"words-total\">${total}</b>"
+msgstr ""
+
+# Button label.
+#: views/templates.js:2297
+msgid "Start"
+msgstr ""
+
+# Title of a view or screen.
+#: views/templates.js:2316
+msgid "Game Mode"
+msgstr ""
+
+#: views/templates.js:2326
+msgid "Karaoke"
+msgstr ""
+
+# Score points.
+#: views/templates.js:2341
+msgid "Score"
+msgstr ""
+
+# Number of hits in a game.
+#: views/templates.js:2345
+msgid "Hits"
+msgstr ""
+
+# Percentage of lyrics of a song completed in a game.
+#: views/templates.js:2353
+msgid "Progress"
+msgstr ""
+
+# Number of stars earned in the game.
+#: views/templates.js:2357
+msgid "Stars"
+msgstr ""
+
+#: views/templates.js:2381
+msgid "Please, check your inbox and follow the instructions."
+msgstr ""
+
+#: views/templates.js:2425
+msgid "Current Password"
+msgstr ""
+
+#: views/templates.js:2432
+msgid "New Password"
+msgstr ""
+
+#: views/templates.js:2436
+msgid "Retype Password"
+msgstr ""
+
+# Button label.
+#: views/templates.js:2445
+msgid "Save"
+msgstr ""
+
+# Title of a dialog or pop-up.
+#: views/templates.js:2457
+msgid "Congratulations!"
+msgstr ""
+
+#: views/templates.js:2459
+msgid "Your account has been created successfully."
+msgstr ""
+
+#: views/templates.js:2475
+msgid "Don't lose your progress and achievements"
+msgstr ""
+
+#: views/templates.js:2477
+msgid "Play on other devices"
+msgstr ""
+
+#: views/templates.js:2479
+msgid "Compete with others and challenge your friends"
+msgstr ""
+
+# ${service}: Google, Facebook or Apple.
+#: views/templates.js:2488 views/templates.js:2493
+msgid "Sign up with ${service}"
+msgstr ""
+
+# Title of a dialog or pop-up.
+#: views/templates.js:2517 views/templates.js:2519
+msgid "Game Over"
+msgstr ""
+
+#: views/templates.js:2521
+msgid "Sorry, you went wrong this time."
+msgstr ""
+
+# Button label or menu item to continue playing after the game is over.
+#: views/templates.js:2525
+msgid "Keep Playing"
+msgstr ""
+
+# Button label.
+#: views/templates.js:2527
+msgid "Quit Game"
+msgstr ""
+
+# Refers to a completed song lyric.
+#: views/templates.js:2539 views/templates.js:2541
+msgid "Lyrics Completed"
+msgstr ""
+
+#: views/templates.js:2543
+msgid "Congratulations, you did it!"
+msgstr ""
+
+# Button label or menu item.
+#: views/templates.js:2545
+msgid "Replay Video"
+msgstr ""
+
+# Button label.
+#: views/templates.js:2547
+msgid "End Game"
+msgstr ""
+
+#: views/templates.js:2599
+msgid "You"
+msgstr ""
+
+# "anonymous" user.
+#: views/templates.js:2599
+msgid "anonymous"
+msgstr ""
+
+# Label for new menu items.
+#: views/users/menu/handler.js:153
+msgid "New"
+msgstr ""
+
+#: views/users/reset-pass/handler.js:18
+msgid "Please enter your username or email."
+msgstr ""
+
+#: views/users/reset-pass/handler.js:22 views/users/sign-in/handler.js:30
+msgid "Invalid username or email address."
+msgstr ""
+
+#: views/users/reset-pass/handler.js:57
+msgid "User not found."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:29
+#: views/users/sign-up/handler.js:81
+msgid "Please enter a username."
+msgstr ""
+
+# ${num}: Number of characters.
+#: views/users/settings/edit-dialog/handler.js:34
+#: views/users/settings/edit-dialog/handler.js:100
+#: views/users/sign-up/handler.js:86 views/users/sign-up/handler.js:124
+msgid "Please enter at least ${num} characters."
+msgstr ""
+
+# ${num}: Number of characters.
+#: views/users/settings/edit-dialog/handler.js:36
+#: views/users/sign-up/handler.js:88 views/users/sign-up/handler.js:126
+msgid "Please enter ${num} characters or less."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:38
+#: views/users/sign-up/handler.js:90
+msgid "The username must start with a letter."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:40
+#: views/users/sign-up/handler.js:92
+msgid "Please enter only letters, numbers, periods or underscores."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:55
+#: views/users/sign-up/handler.js:51
+msgid "Please enter your email address."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:60
+#: views/users/sign-up/handler.js:55
+msgid "Invalid email address."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:76
+msgid "Please enter your current password."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:80
+#: views/users/settings/edit-dialog/handler.js:102
+#: views/users/settings/edit-dialog/handler.js:117
+#: views/users/sign-in/handler.js:46 views/users/sign-up/handler.js:128
+msgid "Invalid password."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:91
+msgid "Please enter a new password."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:95
+msgid "Your new password cannot be the same."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:113
+msgid "Please confirm the new password."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:121
+msgid "The password doesn't match."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:145
+#: views/users/sign-up/handler.js:106 views/users/sign-up/handler.js:164
+msgid "Sorry, the username is already in use."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:150
+#: views/users/sign-up/handler.js:68 views/users/sign-up/handler.js:160
+msgid "Sorry, the email is already in use."
+msgstr ""
+
+#: views/users/settings/edit-dialog/handler.js:155
+msgid "Current password is incorrect."
+msgstr ""
+
+#: views/users/settings/handler.js:59
+msgid "Sorry, unable to update your profile picture at this time."
+msgstr ""
+
+#: views/users/settings/handler.js:114
+msgid "Please select your country."
+msgstr ""
+
+#: views/users/settings/handler.js:156
+msgid "Please select a date."
+msgstr ""
+
+#: views/users/settings/handler.js:161
+msgid "Invalid date."
+msgstr ""
+
+#: views/users/settings/handler.js:186
+msgid "Please select a month."
+msgstr ""
+
+#: views/users/settings/handler.js:188
+msgid "Please select a day."
+msgstr ""
+
+#: views/users/settings/handler.js:190
+msgid "Please select a year."
+msgstr ""
+
+# ${service}: Google, Facebook or Apple.
+#: views/users/settings/handler.js:228 views/users/settings/handler.js:271
+#: views/users/settings/handler.js:314
+msgid "To unlink your ${service} account, you must enter a password."
+msgstr ""
+
+# ${service}: Google, Facebook or Apple.
+#: views/users/settings/handler.js:238 views/users/settings/handler.js:281
+#: views/users/settings/handler.js:329
+msgid "Sorry, this ${service} account is already linked to another user."
+msgstr ""
+
+#: views/users/settings/handler.js:320
+msgid "Sorry, the service is not available on your device."
+msgstr ""
+
+#: views/users/sign-in/handler.js:26
+msgid "Enter your username or email address."
+msgstr ""
+
+#: views/users/sign-in/handler.js:42
+msgid "Enter your password to continue."
+msgstr ""
+
+#: views/users/sign-in/handler.js:73
+msgid "Invalid username or password."
+msgstr ""
+
+#: views/users/sign-up/handler.js:119
+msgid "Please enter a password."
+msgstr ""
+
+#: views/users/vocabulary/handler.js:158
+msgid "Unable to load more words at this time."
+msgstr ""
+
+#: views/widgets/dict/handler.js:311
+msgid "Select the text you want to translate"
+msgstr ""
+
+#: views/widgets/dict/handler.js:403
+msgid "Unable to translate the text"
+msgstr ""
+
+#: views/widgets/dict/handler.js:403
+msgid "Please, try again later."
+msgstr ""
+
+#: views/widgets/favorite/handler.js:50
+msgid "Unable to add this favorite at this time."
+msgstr ""
+
+#: views/widgets/favorite/handler.js:65
+msgid "Unable to remove this favorite at this time."
+msgstr ""

@@ -1,0 +1,914 @@
+[[[#1]]]
+Sorry, the service is currently unavailable
+
+[[[#2]]]
+Please try again later.
+
+[[[#3]]]
+Something went wrong
+
+[[[#4]]]
+[[[Button label.]]]
+Try Again
+
+[[[#5]]]
+No Internet Connection
+
+[[[#6]]]
+Please check your connection and try again.
+
+[[[#7]]]
+[[[%1: Elapsed time in years.]]]
+%1 year ago
+[[[#7p]]]
+%1 years ago
+
+[[[#8]]]
+[[[%1: Elapsed time in months.]]]
+%1 month ago
+[[[#8p]]]
+%1 months ago
+
+[[[#9]]]
+[[[%1: Elapsed time in days.]]]
+%1 day ago
+[[[#9p]]]
+%1 days ago
+
+[[[#10]]]
+[[[%1: Elapsed time in hours.]]]
+%1 hour ago
+[[[#10p]]]
+%1 hours ago
+
+[[[#11]]]
+[[[%1: Elapsed time in minutes.]]]
+%1 minute ago
+[[[#11p]]]
+%1 minutes ago
+
+[[[#12]]]
+[[[%1: Elapsed time in seconds.]]]
+%1 second ago
+[[[#12p]]]
+%1 seconds ago
+
+[[[#13]]]
+[[[Relative time.]]]
+just now
+
+[[[#14]]]
+[[[Featured song lyrics.]]]
+Featured Lyrics
+
+[[[#15]]]
+[[[Most played song lyrics.]]]
+Top Lyrics
+
+[[[#16]]]
+[[[New song lyrics.]]]
+New Lyrics
+
+[[[#17]]]
+[[[Heading of a list.]]]
+Hot Lyrics
+
+[[[#18]]]
+[[[Musical genres.]]]
+Genres
+
+[[[#19]]]
+[[[Name of a section of the app that displays the user's favorite song lyrics.]]]
+Favorites
+
+[[[#20]]]
+Unable to load the game at this time.
+
+[[[#21]]]
+Unable to open the challenge at this time.
+
+[[[#22]]]
+Play this lyrics if you dare!
+
+[[[#23]]]
+Unable to create a new challenge at this time.
+
+[[[#24]]]
+Worldwide
+
+[[[#25]]]
+My Country
+
+[[[#26]]]
+[[[Button label.]]]
+Challenge
+
+[[[#27]]]
+Unable to load leaderboard at this time
+
+[[[#28]]]
+No scores found
+
+[[[#29]]]
+[[[Button label.]]]
+Retry
+
+[[[#30]]]
+[[[Button label.]]]
+Refresh
+
+[[[#31]]]
+[[[%1: Number of times a game has been played.]]]
+%1 play
+[[[#31p]]]
+%1 plays
+
+[[[#32]]]
+[[[A song lyrics.]]]
+Check out this lyrics!
+
+[[[#33]]]
+Your subscription has expired
+
+[[[#34]]]
+Your subscription is linked to another user
+
+[[[#35]]]
+Please contact support for help.
+
+[[[#36]]]
+We couldn't find any active subscription at this time
+
+[[[#37]]]
+Your purchase could not be completed
+
+[[[#38]]]
+Please try again or contact support.
+
+[[[#39]]]
+[[[Button label.]]]
+Cancel
+
+[[[#40]]]
+[[[Button label.]]]
+Close
+
+[[[#41]]]
+Sorry, something went wrong
+
+[[[#42]]]
+Not Authorized
+
+[[[#43]]]
+Please log in and try again.
+
+[[[#44]]]
+Access Denied
+
+[[[#45]]]
+You don't have persmission to access this content.
+
+[[[#46]]]
+Not Found
+
+[[[#47]]]
+We couldn't find the content you were looking for.
+
+[[[#48]]]
+Out of Service
+
+[[[#49]]]
+We're working hard to restore service as quickly as possible.
+
+[[[#50]]]
+[[[Link or button label.]]]
+Back to Home
+
+[[[#51]]]
+What language do you want to learn today?
+
+[[[#52]]]
+[[[Title.]]]
+Your <b>Level</b>
+
+[[[#53]]]
+[[[Level of user progress in learning a language.]]]
+Level
+
+[[[#54]]]
+Complete a song's lyrics each day to increase your streak!
+
+[[[#55]]]
+[[[Button label.]]]
+Continue
+
+[[[#56]]]
+[[[When there is nothing to show.]]]
+Nothing here…
+
+[[[#57]]]
+You have not added any favorites yet.
+
+[[[#58]]]
+[[[Song lyrics.]]]
+Sorry, there are no lyrics matching your search criteria.
+
+[[[#59]]]
+[[[Title of a dialog or pop-up.]]]
+Go <b>Premium</b>
+
+[[[#60]]]
+Play thousands of lyrics without waiting
+
+[[[#61]]]
+Translate any word or sentence without limits
+
+[[[#62]]]
+[[[If the user pays...]]]
+Full access to your vocabulary and activity log
+
+[[[#63]]]
+[[["Monthly" subscription plan.]]]
+Monthly
+
+[[[#64]]]
+[[[For example: $4,99 "per month".]]]
+Per month
+
+[[[#65]]]
+[[["Annual" subscription plan.]]]
+Annual
+
+[[[#66]]]
+[[[For example: $29,99 "per year".]]]
+Per year
+
+[[[#67]]]
+[[[Highlight the best offer among various price plans.]]]
+Best value
+
+[[[#68]]]
+[[[${cost}: Amount of money to pay.]]]
+That's <b>${cost}</b> a month
+
+[[[#69]]]
+[[[Button label.]]]
+Restore Purchase
+
+[[[#70]]]
+[[[${store}: App Store or Google Play.]]]
+Payment will be charged to your ${store} account at confirmation of purchase
+
+[[[#71]]]
+Subscription automatically renews unless canceled at least 24-hours before the end of the current period
+
+[[[#72]]]
+[[[${store}: App Store or Google Play.]]]
+To cancel your subscription, please go to your ${store} account settings.
+
+[[[#73]]]
+[[[Link to “Terms of Service" web page.]]]
+Terms of Service
+
+[[[#74]]]
+[[[Link to "Privacy Policy" web page.]]]
+Privacy Policy
+
+[[[#75]]]
+How deep is your love?
+
+[[[#76]]]
+Tap a star to rate this app.
+
+[[[#77]]]
+[[[Button label.]]]
+No, Thanks
+
+[[[#78]]]
+[[[Button label.]]]
+Maybe Later
+
+[[[#79]]]
+Search for lyrics and artists…
+
+[[[#80]]]
+[[[Song lyrics (plural).]]]
+Lyrics
+
+[[[#81]]]
+[[[Link or button label to display "more" items of a list.]]]
+More
+
+[[[#82]]]
+Artists
+
+[[[#83]]]
+Sorry, no results were found
+
+[[[#84]]]
+Check your spelling or try different words
+
+[[[#85]]]
+Enjoy learning languages with music
+
+[[[#86]]]
+Music stimulates learning in a natural way
+
+[[[#87]]]
+Just like when we were kids
+
+[[[#88]]]
+Have fun filling in your favourite lyrics
+
+[[[#89]]]
+Let your brain do the rest
+
+[[[#90]]]
+[[[Button label.]]]
+Skip
+
+[[[#91]]]
+[[[Button label.]]]
+Next
+
+[[[#92]]]
+[[[Button label.]]]
+Get Started
+
+[[[#93]]]
+[[[Member means registered user.]]]
+Already a member?
+
+[[[#94]]]
+Are you sure you want to exit?
+
+[[[#95]]]
+[[[Warning for the user if he leaves an activity.]]]
+All progress will be lost
+
+[[[#96]]]
+[[[Button label.]]]
+Yes
+
+[[[#97]]]
+[[[Button label.]]]
+No
+
+[[[#98]]]
+[[[Button label or menu item.]]]
+Resume
+
+[[[#99]]]
+[[[Button or menu item.]]]
+Restart
+
+[[[#100]]]
+[[[Button label or menu item.]]]
+Give Up
+
+[[[#101]]]
+[[[It can be a button label or menu item, and also the name of a section of the app that displays the user's settings.]]]
+Settings
+
+[[[#102]]]
+[[[Button label or menu item.]]]
+Quit
+
+[[[#103]]]
+[[[Refers to the effect of text lighting.]]]
+Karaoke Effect
+
+[[[#104]]]
+[[[It's a game setting.]]]
+Color Buttons
+
+[[[#105]]]
+[[[It's a game setting.]]]
+Help Tips
+
+[[[#106]]]
+Please check your internet connection settings
+
+[[[#107]]]
+Slide left to repeat the line
+
+[[[#108]]]
+Slide right to skip a word
+
+[[[#109]]]
+Don't show this again
+
+[[[#110]]]
+[[[Title of a dialog or pop-up.]]]
+New Award!
+[[[#110p]]]
+New Awards!
+
+[[[#111]]]
+Play for free
+
+[[[#112]]]
+[[[${num}: Number of times an activity can be performed for free.]]]
+${num} times a day
+
+[[[#113]]]
+[[[${num}: Number of times an activity can be carried out for free, in a given time: ${time} (minutes).]]]
+${num} times every ${time} minutes
+
+[[[#114]]]
+[[[For example: Play again "IN" 20 seconds.]]]
+IN
+
+[[[#115]]]
+[[[Title of a dialog or pop-up.]]]
+Thank You!
+
+[[[#116]]]
+Please help us by confirming your rating on the App Store.
+
+[[[#117]]]
+Please help us by confirming your rating on Google Play.
+
+[[[#118]]]
+Please help us by spreading the word!
+
+[[[#119]]]
+[[[...at: support@lyricstraining.com]]]
+What can we do to improve your rating? Please let us know at 
+
+[[[#120]]]
+[[[Button label (informal).]]]
+Yes, sure
+
+[[[#121]]]
+[[[Button label (informal).]]]
+No way
+
+[[[#122]]]
+[[[Name of a section of the app that displays the user's activity log.]]]
+Activity
+
+[[[#123]]]
+Upgrade now to get full access
+
+[[[#124]]]
+[[[Button label.]]]
+Go Premium
+
+[[[#125]]]
+You don't have any activity yet
+
+[[[#126]]]
+Today
+
+[[[#127]]]
+Yesterday
+
+[[[#128]]]
+[[[Game score or number of points.]]]
+Points
+
+[[[#129]]]
+[[[Number of blanks to fill in.]]]
+Gaps
+
+[[[#130]]]
+[[[Number of failures or mistakes in a game.]]]
+Fails
+
+[[[#131]]]
+[[[Name of a section of the app that displays the user's achievements.]]]
+Awards
+
+[[[#132]]]
+Words
+
+[[[#133]]]
+Sign Up
+
+[[[#134]]]
+Don't lose your progress!
+
+[[[#135]]]
+[[[Name of a section of the app that displays the user's vocabulary.]]]
+Vocabulary
+
+[[[#136]]]
+[[[Link to “Terms of Use” web page.]]]
+Terms of Use
+
+[[[#137]]]
+[[[Link or button label to send an email to us.]]]
+Contact
+
+[[[#138]]]
+[[[Link to “About Us” web page.]]]
+About
+
+[[[#139]]]
+[[[Link to home screen.]]]
+Home
+
+[[[#140]]]
+[[[Link or button label to go to the user's "Profile" or settings screen.]]]
+Profile
+
+[[[#141]]]
+Reset your password
+
+[[[#142]]]
+In order to reset your password, enter your username or email:
+
+[[[#143]]]
+Username or email
+
+[[[#144]]]
+[[[Button label.]]]
+Reset
+
+[[[#145]]]
+Subscription
+
+[[[#146]]]
+Premium User
+
+[[[#147]]]
+Manage subscriptions
+
+[[[#148]]]
+[[[User who doesn't pay.]]]
+Free User
+
+[[[#149]]]
+[[[${num}: Number of times the user can play for free per day.]]]
+Play for free ${num} times a day.
+
+[[[#150]]]
+[[[${num}: Number of times the user can play for free every certain amount of time ${time}, in minutes.]]]
+Play for free ${num} times every ${time} minutes.
+
+[[[#151]]]
+[[[Security section in user settings.]]]
+Security
+
+[[[#152]]]
+Username
+
+[[[#153]]]
+Email
+
+[[[#154]]]
+[[[Button label.]]]
+Edit Password
+
+[[[#155]]]
+[[[...plus service (Google, Facebook, Apple).]]]
+Sign In With…
+
+[[[#156]]]
+Country
+
+[[[#157]]]
+Select your country
+
+[[[#158]]]
+Birthday
+
+[[[#159]]]
+Month
+
+[[[#160]]]
+[[[Refers to the day of the month.]]]
+Day
+
+[[[#161]]]
+Year
+
+[[[#162]]]
+[[[Button label.]]]
+Log Out
+
+[[[#163]]]
+[[[${code}: Version code number.]]]
+Version ${code}
+
+[[[#164]]]
+Sign In
+
+[[[#165]]]
+Password
+
+[[[#166]]]
+Forgot your password?
+
+[[[#167]]]
+[[[Conjunction "or".]]]
+OR
+
+[[[#168]]]
+[[[${service}: Google, Facebook or Apple.]]]
+Sign in with ${service}
+
+[[[#169]]]
+Please, enter a username to continue:
+
+[[[#170]]]
+[[[Legal stuff.]]]
+By continuing, you agree to our <a class="terms" target="_blank" href="${terms_url}">Terms of Use</a> and <a class="privacy" target="_blank" href="${privacy_url}">Privacy Policy</a>.
+
+[[[#171]]]
+Play any lyrics to collect words.
+
+[[[#172]]]
+[[[Strength of a learned word.]]]
+Strength
+
+[[[#173]]]
+[[[${num}: Number of times.]]]
+${num} times
+
+[[[#174]]]
+[[[${timeAgo}: Elapsed time.]]]
+Last time: ${timeAgo}
+
+[[[#175]]]
+[[[Translate to Spanish, Italian...]]]
+Translate to
+
+[[[#176]]]
+You've reached the daily free limit
+
+[[[#177]]]
+Upgrade now to unlimited translations
+
+[[[#178]]]
+[[[${num}: Number of translations per day.]]]
+${num} translations per day
+
+[[[#179]]]
+[[[By service provider (Microsoft).]]]
+Translated by
+
+[[[#180]]]
+[[[Refers to number of days.]]]
+Days
+
+[[[#181]]]
+[[[Game bonus (label).]]]
+Bonus
+
+[[[#182]]]
+[[[${user}: Refers to the name of a user.]]]
+<b>${user}</b> has challenged you!
+
+[[[#183]]]
+[[[${num}: Number of words.]]]
+${num} words
+
+[[[#184]]]
+[[[Button label.]]]
+Play Now
+
+[[[#185]]]
+Share your score and challenge your friends!
+
+[[[#186]]]
+[[[Header title of the high scores table.]]]
+Leaderboard
+
+[[[#187]]]
+[[[Button label.]]]
+Play
+
+[[[#188]]]
+[[[Difficulty level of a game.]]]
+Difficulty Level
+
+[[[#189]]]
+[[[${num}: Number of words to fill in of ${total}: the total number of words in the lyrics.]]]
+Fill <b class="words-num">${num}</b> words of <b class="words-total">${total}</b>
+
+[[[#190]]]
+[[[Button label.]]]
+Start
+
+[[[#191]]]
+[[[Title of a view or screen.]]]
+Game Mode
+
+[[[#192]]]
+Karaoke
+
+[[[#193]]]
+[[[Score points.]]]
+Score
+
+[[[#194]]]
+[[[Number of hits in a game.]]]
+Hits
+
+[[[#195]]]
+[[[Percentage of lyrics of a song completed in a game.]]]
+Progress
+
+[[[#196]]]
+[[[Number of stars earned in the game.]]]
+Stars
+
+[[[#197]]]
+Please, check your inbox and follow the instructions.
+
+[[[#198]]]
+Current Password
+
+[[[#199]]]
+New Password
+
+[[[#200]]]
+Retype Password
+
+[[[#201]]]
+[[[Button label.]]]
+Save
+
+[[[#202]]]
+[[[Title of a dialog or pop-up.]]]
+Congratulations!
+
+[[[#203]]]
+Your account has been created successfully.
+
+[[[#204]]]
+Don't lose your progress and achievements
+
+[[[#205]]]
+Play on other devices
+
+[[[#206]]]
+Compete with others and challenge your friends
+
+[[[#207]]]
+[[[${service}: Google, Facebook or Apple.]]]
+Sign up with ${service}
+
+[[[#208]]]
+[[[Title of a dialog or pop-up.]]]
+Game Over
+
+[[[#209]]]
+Sorry, you went wrong this time.
+
+[[[#210]]]
+[[[Button label or menu item to continue playing after the game is over.]]]
+Keep Playing
+
+[[[#211]]]
+[[[Button label.]]]
+Quit Game
+
+[[[#212]]]
+[[[Refers to a completed song lyric.]]]
+Lyrics Completed
+
+[[[#213]]]
+Congratulations, you did it!
+
+[[[#214]]]
+[[[Button label or menu item.]]]
+Replay Video
+
+[[[#215]]]
+[[[Button label.]]]
+End Game
+
+[[[#216]]]
+You
+
+[[[#217]]]
+[[["anonymous" user.]]]
+anonymous
+
+[[[#218]]]
+[[[Label for new menu items.]]]
+New
+
+[[[#219]]]
+Please enter your username or email.
+
+[[[#220]]]
+Invalid username or email address.
+
+[[[#221]]]
+User not found.
+
+[[[#222]]]
+Please enter a username.
+
+[[[#223]]]
+[[[${num}: Number of characters.]]]
+Please enter at least ${num} characters.
+
+[[[#224]]]
+[[[${num}: Number of characters.]]]
+Please enter ${num} characters or less.
+
+[[[#225]]]
+The username must start with a letter.
+
+[[[#226]]]
+Please enter only letters, numbers, periods or underscores.
+
+[[[#227]]]
+Please enter your email address.
+
+[[[#228]]]
+Invalid email address.
+
+[[[#229]]]
+Please enter your current password.
+
+[[[#230]]]
+Invalid password.
+
+[[[#231]]]
+Please enter a new password.
+
+[[[#232]]]
+Your new password cannot be the same.
+
+[[[#233]]]
+Please confirm the new password.
+
+[[[#234]]]
+The password doesn't match.
+
+[[[#235]]]
+Sorry, the username is already in use.
+
+[[[#236]]]
+Sorry, the email is already in use.
+
+[[[#237]]]
+Current password is incorrect.
+
+[[[#238]]]
+Sorry, unable to update your profile picture at this time.
+
+[[[#239]]]
+Please select your country.
+
+[[[#240]]]
+Please select a date.
+
+[[[#241]]]
+Invalid date.
+
+[[[#242]]]
+Please select a month.
+
+[[[#243]]]
+Please select a day.
+
+[[[#244]]]
+Please select a year.
+
+[[[#245]]]
+[[[${service}: Google, Facebook or Apple.]]]
+To unlink your ${service} account, you must enter a password.
+
+[[[#246]]]
+[[[${service}: Google, Facebook or Apple.]]]
+Sorry, this ${service} account is already linked to another user.
+
+[[[#247]]]
+Sorry, the service is not available on your device.
+
+[[[#248]]]
+Enter your username or email address.
+
+[[[#249]]]
+Enter your password to continue.
+
+[[[#250]]]
+Invalid username or password.
+
+[[[#251]]]
+Please enter a password.
+
+[[[#252]]]
+Unable to load more words at this time.
+
+[[[#253]]]
+Select the text you want to translate
+
+[[[#254]]]
+Unable to translate the text
+
+[[[#255]]]
+Please, try again later.
+
+[[[#256]]]
+Unable to add this favorite at this time.
+
+[[[#257]]]
+Unable to remove this favorite at this time.
