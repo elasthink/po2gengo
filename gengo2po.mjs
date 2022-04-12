@@ -71,6 +71,7 @@ const poFile2Path = path.resolve(path.dirname(poFilePath), `${path.basename(poFi
         }
         poFile2WS.write(`${line}\n`);
     }
+    poFile2WS.end();
 
     // Se guarda el fichero original añadiendo la extensión .bak y renombramos el fichero creado.
     fs.renameSync(poFilePath, `${poFilePath}.bak`);
